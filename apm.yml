@@ -21,6 +21,7 @@ license: Syncfusion Inc
 
 dependencies:
   apm:
+    - https://github.com/testingcyr123-arch/blazor-ui-components-skills/tree/master
     - syncfusion/docx-editor-sdk-skills/skills/syncfusion-blazor-docx-editor
     - syncfusion/pdf-viewer-sdk-skills/skills/syncfusion-blazor-pdf-viewer
     - syncfusion/pdf-viewer-sdk-skills/skills/syncfusion-blazor-smart-pdf-viewer
