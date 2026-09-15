@@ -21,7 +21,7 @@ license: Syncfusion Inc
 
 dependencies:
   apm:
-    - syncfusion/blazor-ui-components-skills
+    - syncfusion/blazor-ui-components-skills/skills
     - syncfusion/docx-editor-sdk-skills/skills/syncfusion-blazor-docx-editor
     - syncfusion/pdf-viewer-sdk-skills/skills/syncfusion-blazor-pdf-viewer
     - syncfusion/pdf-viewer-sdk-skills/skills/syncfusion-blazor-smart-pdf-viewer
